@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title-1{
+    font-family: 'Lora', serif;
+    border-left: 2px solid rgb(216, 55, 15) ;
+    padding-left: 10px;
+    font-size: 50px;
+
+}
+.lastname{
+    color: rgb(214, 157, 32);
+}
+.button{
+    background-image: linear-gradient(to right, rgb(255, 98, 7) , rgb(119, 119, 78));
+    padding: 10px 20px;
+    text-decoration: none;
+    color: cornsilk;
+    border-radius: 6px;
+}
+.section1{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 80px;
+   
+    
+}
+.sec1-div1{
+    padding-top: 10%;
+    margin-left: 5%;
+}
+.sec1-div2{
+    margin-left: 10%;
+}
+
+.sec1-div2 img{
+    width: 350px;
+}
+.title-2{
+    font-family: 'Lora', serif;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+}
+.illustration{
+    width: 50%;
+}
+h4{
+    font-size: 20px;
+    font-weight: 800;
+}
+.section2{
+    display: flex;
+    text-align: justify;
+    width: 80%;
+    margin:auto;
+    margin-top: 30px;
+}
+.mission{
+    padding: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(247, 248, 154);
+    width: 80%;
+    margin-right: 3%;
+    
+}
+.vission{
+    padding: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(233, 220, 174);
+    width: 80%;
+    margin-right: 3%;
+} 
+.goals{
+    padding: 10px 15px;
+    border-radius: 6px;
+    background-color: rgb(199, 199, 168);
+    width: 80%;
+    margin-right: 3%;
+    
+}
+.section3{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+.sec3-div1{
+    width: 200%;
+    margin-left: 5%;
+}
+.sec3-div1 img{
+    width: 80%;
+}
+.sec3-div2{
+    width: 250%;
+    margin-top: 5%;
+}
+h3{
+    font-size: 30px;
+}
+.sec4-div1{
+    padding: 10px 20px;
+}
+.sec4-div2 img{
+    width: 80%;
+    margin-left: 50px;
+}
+.section4{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+.section5{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    background-image: url(./images/shapes/shape-8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec5-div1 img{
+    width: 350px;
+    
+}
+.sec5-div2{
+    margin-left: 5%;
+    margin-top: 15%;
+  
+}
+.section5 form{
+    margin-right: 10%;
+}
+
+input,select{
+    padding: 5px 30px;
+    margin: 5px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: inline-block;
+    border: 1px solid rgb(6, 7, 5);
+    width: 100%;
+}
+input[type=submit] {
+    width: 105%;
+    background-color: #eb4e4e;
+    color: white;
+    padding: 10px 60px;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+    
+}
