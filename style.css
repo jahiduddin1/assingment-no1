@@ -156,3 +156,14 @@ input[type=submit] {
     border-radius: 4px;
     
 }
+footer{
+    text-align:center;
+    color: rgb(223, 183, 8);
+    background-size: inherit;
+    background-color: rgb(4, 27, 53);
+    height: 150px;
+    width: 100%;
+}
+.footertext{
+    padding-top: 40px;
+}
